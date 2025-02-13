@@ -7,7 +7,7 @@
 #
 Name     : pypi-sphinxcontrib_asyncio
 Version  : 0.3.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/e3/04/5bfea4f0658dba09f910919f96b6445fb0d984bc9c2e6f7fc6448345e42a/sphinxcontrib-asyncio-0.3.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e3/04/5bfea4f0658dba09f910919f96b6445fb0d984bc9c2e6f7fc6448345e42a/sphinxcontrib-asyncio-0.3.0.tar.gz
 Summary  : sphinx extension to support coroutines in markup
